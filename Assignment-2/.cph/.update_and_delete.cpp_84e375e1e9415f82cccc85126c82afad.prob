@@ -1,0 +1,1 @@
+{"name":"Local: update_and_delete","url":"d:\\Phitron\\Bootcamp\\Assignment-2\\update_and_delete.cpp","tests":[{"id":1740316372247,"input":"5\n10 20 30 40 50\n1 100","output":"50 40 30 100 10 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\Bootcamp\\Assignment-2\\update_and_delete.cpp","group":"local","local":true}
